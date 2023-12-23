@@ -5,7 +5,7 @@ import os
 from openai import OpenAI
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "Put your API Key"
 
 def extract_text_from_pdf(pdf_file):
     try:
