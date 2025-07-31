@@ -28,7 +28,6 @@ This tool uses <code>PyMuPDF</code> to extract text and then leverages GPT (via 
 
 <hr>
 
-<hr>
 
 <h2>📂 How It Works</h2>
 <ol>
@@ -80,9 +79,6 @@ streamlit run app.py
 
 <hr>
 
-<hr>
-
-<hr>
 
 <h2>📬 Contact</h2>
 <p>
