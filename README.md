@@ -28,12 +28,6 @@ This tool uses <code>PyMuPDF</code> to extract text and then leverages GPT (via 
 
 <hr>
 
-<h2>📷 Demo</h2>
-<p>
-  <img src="https://user-images.githubusercontent.com/yourusername/demo.gif" alt="App Demo" />
-</p>
-<p><em>(Add your own GIF or screenshot of the app in action)</em></p>
-
 <hr>
 
 <h2>📂 How It Works</h2>
@@ -86,21 +80,11 @@ streamlit run app.py
 
 <hr>
 
-<h2>📃 License</h2>
-<p>
-  MIT License. See <a href="LICENSE">LICENSE</a> for more details.
-</p>
-
 <hr>
-
-<h2>🙌 Contributing</h2>
-<p>
-  Contributions, ideas, and suggestions are welcome! Feel free to fork this project and submit a PR.
-</p>
 
 <hr>
 
 <h2>📬 Contact</h2>
 <p>
-  For feedback or questions, reach out via GitHub Issues or connect on <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>.
+  For feedback or questions, reach out via GitHub Issues or connect on <a href="https://linkedin.com/in/aman-empires">LinkedIn</a>.
 </p>
